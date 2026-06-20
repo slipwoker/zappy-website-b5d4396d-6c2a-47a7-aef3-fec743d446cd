@@ -1,0 +1,66 @@
+# קייטנת זוזו — Generative Engine Optimization Map
+
+> A mobile day camp ('kaytzana al galgalim') that travels to different locations to provide children with camp activities and experiences on wheels. The business brings the camp experience directly to the kids, combining mobility with fun, youth-oriented programming.
+
+---
+
+## Pages
+
+### דף הבית
+https://-b5d4396d.zappy5.app
+מחפשים קייטנת קיץ לילדים שלא דורשת נסיעות? קייטנת זוזו מביאה את כל הכיף, היצירה והחוויות החינוכיות ישירות לחצר שלכם בתל אביב. תנו לילדים קיץ בלתי נשכח עם פעילויות ניידות, צוות מקצועי ותוכנית יומית עשירה. הצטרפו עכשיו למהפכת הקייטנות על גלגלים!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-b5d4396d.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-b5d4396d.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-b5d4396d.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-b5d4396d.zappy5.app
+- Endpoint: https://-b5d4396d.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About קייטנת זוזו
+A mobile day camp ('kaytzana al galgalim') that travels to different locations to provide children with camp activities and experiences on wheels. The business brings the camp experience directly to the kids, combining mobility with fun, youth-oriented programming.
+
+## Target Audience
+- הורים עובדים
+- משפחות עירוניות
+- הורים ממוקדים חינוך
+
+## Industry
+Children's Entertainment & Education
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-b5d4396d.zappy5.app/sitemap.xml
+- Robots: https://-b5d4396d.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-b5d4396d.zappy5.app/llms-full.txt
